@@ -50,6 +50,4 @@ userName = "John";
 prefixedUserName = prefix + userName; 
 console.log(prefixedUserName /*+ prefixedUserName2*/); // console.log(prefixedUserName2);
 
-let counter = 100;
-let counter = 200;
-counter = 300;
+
